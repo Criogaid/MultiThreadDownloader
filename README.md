@@ -1,6 +1,6 @@
 # MultitaskDownloader
 Mulit task Downloader based on Python | 基于Python的多线程下载器
-<h1 align="center" name="MultitaskDownloader">PyWebIO</h1>
+<h1 align="center" name="MultitaskDownloader">MultitaskDownloader</h1>
 <p align="center">
     <em>Write interactive web app in script way.</em>
 </p>
